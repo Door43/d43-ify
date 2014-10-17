@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ify:home|Door43 (ify)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ify|d43-ify repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ify/archive/master.zip|d43-ify.zip]]
+
+**Recent Changes**
+{{changes>ns = ify}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ify|Ethnologue data]]
+
